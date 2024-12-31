@@ -1,6 +1,6 @@
 # Setting_up_Kali_linux_virtual_machine
 <strong>Installing Kali Linux on Windows Using VirtualBox</strong>
-<img src="https://wallpapers.com/wallpapers/kali-linux-os-red-5s4vyt83m0scbaq7.html" align="center">
+<img src="Images/download.jpeg">
 <p>This guide provides a detailed step-by-step process for absolute beginners to install Kali Linux on a Windows machine using VirtualBox. Follow the steps carefully and refer to the screenshots provided in the GitHub repository for clarity.</p>
 
 <strong>Prerequisites</strong>
